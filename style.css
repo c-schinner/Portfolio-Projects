@@ -31,3 +31,12 @@ h5 {
     font-weight: bold;
 }
 
+.buttons {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#top {
+    text-align: center;
+}
