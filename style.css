@@ -1,0 +1,33 @@
+p {
+    font-family: Verdana;
+    color: black;
+    font-size: 13px;
+}
+
+a {
+    font-family: Geneva;
+    color: rgb(5, 147, 195);
+    font-style: oblique
+}
+
+a:hover {
+    color: purple;
+}
+
+a:visited {
+    color: red;
+}
+
+li {
+    list-style: square;
+    font-style: oblique;
+}
+
+h1, h3 {
+    font-style: italic;
+}
+
+h5 {
+    font-weight: bold;
+}
+
